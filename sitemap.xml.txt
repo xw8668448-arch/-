@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- 首页 -->
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- 商品页面 -->
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00001</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00002</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00003</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00004</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00005</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00006</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voluble-bienenstitch-180f6b.netlify.app/fc00007</loc>
+      <lastmod>2025-10-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+</urlset>
